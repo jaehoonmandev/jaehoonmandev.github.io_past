@@ -1,22 +1,22 @@
 # Site settings
-title: "jaehoonman"
-bye_message: "감사염"
+title: "재훈맨블로그"
+bye_message: "ㅂ2"
 baseurl: "/"
 url: "https://wido1593.github.io"
-#disqus: gjuniioor
+disqus: jaehoonman
 
 # Header settings
 nick: "jaehoonman"
 mail:
-    domain: "wido1593"
-    ext: "g"
+    domain: "protonmail"
+    ext: "ch"
 source_code:
     server: "github.com"
     nick: "wido1593"
 blog:
-    server: "tistory.com"
-    nick: "jaehoonman"
-#fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+    server: "wordpress.com"
+    nick: "wido1593"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
 markdown: kramdown
