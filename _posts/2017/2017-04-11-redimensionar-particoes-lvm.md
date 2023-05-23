@@ -70,7 +70,7 @@ Até!
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/archlinux-lvm-luks/
+[0]: {{ site.url }}{{ site.baseurl }}/blog/archlinux-lvm-luks/
 ~~~
 
-[0]: {{ site.baseurl }}blog/archlinux-lvm-luks/
+[0]: {{ site.baseurl }}/blog/archlinux-lvm-luks/

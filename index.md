@@ -27,9 +27,9 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
 
 ### Screenshots
 
-![Screenshot]({{ site.baseurl }}images/screenshot/01.png)
+![Screenshot]({{ site.baseurl }}/images/screenshot/01.png)
 
-![Screenshot]({{ site.baseurl }}images/screenshot/02.png)
+![Screenshot]({{ site.baseurl }}/images/screenshot/02.png)
 
 ### Config file example
 

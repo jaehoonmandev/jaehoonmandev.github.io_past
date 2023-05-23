@@ -30,9 +30,9 @@ GitHub Pages 의 장점이라면 장점, 단점이라면 단점인 게
 
 1.  새로운 Repository를 만든다.
     -   GitHub에 로그인하여 우측 상단 계정 아이콘 옆에 + 버튼을 눌러 “New repository” 를 선택한다.  
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/1.png)
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/1.png)
     -   Repository name 을 \[본인 GitHub ID\].github.io 로 설정 후, Repository를 생성한다.  
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/2.png)
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/2.png)
 
 
 2.  생성한 Repository Settings.
@@ -43,7 +43,7 @@ GitHub Pages 의 장점이라면 장점, 단점이라면 단점인 게
         -   Sources - Deploy from a branch
         -   Branch - none - save
 
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/3.png)
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/3.png)
 
 
 
@@ -60,7 +60,7 @@ GitHub Pages 의 장점이라면 장점, 단점이라면 단점인 게
     (git설정이 되어있지 않았다면 [https://jaehoonman.tistory.com/25](https://jaehoonman.tistory.com/25) 를 참고하자)
 
     Repository - code에 접근하면 현재 생성된 파일이 없기 때문에 아래와 같이 노출될 것이다.  
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/4.png)
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/4.png)
 
     ```
     echo "# wido1593.github.io" >> README.md
@@ -78,7 +78,7 @@ GitHub Pages 의 장점이라면 장점, 단점이라면 단점인 게
     2.  git initialization. (git repository 로 사용할 디렉터리를 cd 로접근하여 init 해준다.)
     3.  연동한 Repository 에 생성한 [README.md](http://readme.md/) 파일을 commit / push를 해준다.
 
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/5.png)  
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/5.png)  
     생성된 파일을 확인하고, GitHub Repository 대문에 아까 작성한 내용이 노출되는지 확인하자.  
     (index.html은 이미 해놓고 글을 써서 있는 거다 ㅎㅎ)
 
@@ -105,7 +105,7 @@ GitHub Pages 의 장점이라면 장점, 단점이라면 단점인 게
 
     push가 완료되었다면 Root 경로를 브라우저로 접근한다.
 
-    ![]({{ site.baseurl }}images/posts/2023/github_pages/1/6.png)  
+    ![]({{ site.baseurl }}/images/posts/2023/github_pages/1/6.png)  
     작성한 내용이 브라우저에서 확인된다면 git pages 설정을 완료한것이다.
 
     다만, push한 뒤에도 404 에러 코드를 뱉으면서 index.html 내용이 바로 나타나지 않을수도있다.  

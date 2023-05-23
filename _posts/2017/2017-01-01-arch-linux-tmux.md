@@ -11,7 +11,7 @@ tags:
     - tmux
 ---
 
-![Screenshot]({{ site.baseurl }}images/posts/2017/01.png)
+![Screenshot]({{ site.baseurl }}/images/posts/2017/01.png)
 
 > Caso queira ver o print maior, [clica aqui \[0\]][0].
 
@@ -49,12 +49,12 @@ Bom, tomara que começar o ano postando algo assim faça vir mais posts e coisas
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}images/posts/2017/01.png
+[0]: {{ site.url }}{{ site.baseurl }}/images/posts/2017/01.png
 [1]: http://ohmyz.sh/
-[2]: {{ site.url }}{{ site.baseurl }}images/posts/2017/02.jpg
+[2]: {{ site.url }}{{ site.baseurl }}/images/posts/2017/02.jpg
 ~~~
 
-[0]: {{ site.baseurl }}images/posts/2017/01.png
-[2]: {{ site.baseurl }}images/posts/2017/02.jpg
+[0]: {{ site.baseurl }}/images/posts/2017/01.png
+[2]: {{ site.baseurl }}/images/posts/2017/02.jpg
 [1]: http://ohmyz.sh/
 [marino]: https://github.com/marinofull
