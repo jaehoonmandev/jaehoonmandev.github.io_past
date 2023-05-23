@@ -1,7 +1,7 @@
 # Site settings
 title: "jaehoonman"
-bye_message: "감사염"
-baseurl: "/"
+bye_message: "떙큐 떙큐"
+baseurl: "/jaehoonman/"
 url: "https://wido1593.github.io"
 #disqus: gjuniioor
 
@@ -21,3 +21,4 @@ blog:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+future: true #post 작성 시 미래의 날짜도 개시할 것인지.
