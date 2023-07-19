@@ -61,7 +61,7 @@ private static boolean Prime(int n){
 
 이로 인하여 중간 약수까지만 비교를 진행하면된다.
 
-구현은 비교하는 n을 절반으로 나누는 방법과, 루트(XX√) 사용하여 계산하는 방법이 있다.XX
+구현은 비교하는 n을 절반으로 나누는 방법과, 루트(√) 사용하여 계산하는 방법이 있다.
 
 루트를 이용하여 계산하는건 절반으로 나눈 n의 원리를 응용한 것이니 루트로 진행하겠다.
 
@@ -78,9 +78,9 @@ private static boolean Prime(int n){
 }
 ```
 
-시간 복잡도는 O(XX√n)가 나올 것이다.XX
+시간 복잡도는 O(√n)가 나올 것이다.
 
-이외에도 XXHeuristic tests, Probabilistic tests, Fast deterministic tests 등 여러 방법이 있지만 복잡한 관계로 일단 킵 해두기로했다…
+이외에도 Heuristic tests, Probabilistic tests, Fast deterministic tests 등 여러 방법이 있지만 복잡한 관계로 일단 킵 해두기로했다…
 
 <br>
 Ref.
