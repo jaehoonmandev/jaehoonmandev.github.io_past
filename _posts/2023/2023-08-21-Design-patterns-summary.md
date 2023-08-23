@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"[Design patterns] 소프트웨어 디자인패턴의 기본 개념(작성중)"
+title:	"[Design patterns] 소프트웨어 디자인패턴의 기본 개념"
 date:	2023-08-21 12:00:00
 categories:
 - blog
@@ -131,22 +131,68 @@ GoF에 의해 대표적으로 소개된 패턴은 크게 3가지 패턴으로 �
 >
 
 ##### Blackboard design pattern
-##### Chain of responsibility pattern
+
+  결정되지 않은 모듈의 구현을 통합 할 수 있도록 프레임워크를 제공 해주는 패턴
+
 ##### Command pattern
+
+  객체가 나중에 동작을 수행하거나 이벤트를 발생시키는 데 필요한 정보를 캡슐화하여 사용하는 패턴.
+
+##### Chain of responsibility pattern
+
+  로직이 포함된 프로세싱 객체를 통하여 커맨드 오프젝트가 다른 오브젝트를 핸들링할 수 있는 패턴.
+
 ##### Interpreter pattern
+
+  문제에 해결을 신속하게 할 수 있도록하는 컴포넌트를 설계 할 때 사용하는 패턴.
+
 ##### Iterator pattern
+
+  컨테이너에서 알고리즘 부분을 분리하는 등의 방법을 이용하여 컨테이너의 각 부분알 액세스할 때 사용하는 패턴.
+
 ##### Mediator pattern
+
+  직접 연관을 짓는 객체들을 중재자 객체를 통해 캡슐화되어 의존성을 낮추는 패턴.
+
 ##### Memento pattern
+
+  이전 상태를 유지할 수 있는 저장 기능이 있는 객체를 사용하는 패턴.(rollback)
+
 ##### Observer pattern
+
+  구독된 객체의 의해서 발생한 이벤트를 포착하여 다른 연관 객체에게도 이를 알려주는 패턴.
+
 ##### Protocol stack
+
+  여러개의 레이어를 구성하여 이를 통하여 핸들링하는 패턴.
+
 ##### Scheduled-task pattern
-##### Single-serving visitor pattern
-##### Specification pattern
-##### Specification pattern
-##### State pattern
-##### Strategy pattern
-##### Template method pattern
+
+  특정 시간 간격을 두고 주기적으로 수행되도록 작업을 예약하는 패턴.
+
 ##### Visitor pattern
+
+  기존 객체에서 알고리즘 부분을 분리하여, 다른 객체가 새로운 동작을 추가할 때 구조를 변경하지 않아도되는 패턴.
+
+##### Single-serving visitor pattern
+
+  Visitor 패턴을 최적화하여 사용하는 목적을 가지고 있으며, 한 번 사용되고 바로 지워지는 패턴.
+
+##### Specification pattern
+
+  도메인의 일부를 단일로 분리하여 캡슐화하고, 다른 객체에서 재사용할 수 있도록 하는 패턴.
+
+##### State pattern
+
+  런타임 도중에 내부 상태가 변경될 때 객체의 상태를 부분적으로 바꿀 수 있는 패턴.
+
+##### Strategy pattern
+
+  런타임 도중에 원하는 알고리즘을 선택할 수 있도록하는 패턴.
+
+##### Template method pattern
+
+  상속을 이용하여 원하는 알고리즘을 선택할 수 잇는 패턴.
 
 ---
 
