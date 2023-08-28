@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d933cebb-4522-4cd0-9085-68aee13a80cd" name="Changes" comment="1. 잔디테스트">
-      <change beforePath="$PROJECT_DIR$/_posts/2023/2023-08-21-Design-patterns-summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/2023-08-21-Design-patterns-summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/typing.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/typing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023/Algorithm/2023-07-18-Simpel_Prime_Number_Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/Algorithm/2023-07-18-Simpel_Prime_Number_Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../wido1593.github.io.back" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

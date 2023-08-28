@@ -221,3 +221,33 @@ blockquote {
 margin: unset;
     font-size: 12px;
 }
+
+/*커스터마이징*/
+.pre_portfolio{
+    background-color: rgba(255,255,255,0.05);
+    border: 1px dashed rgba(255,255,255,0.5);
+    padding: 8px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    overflow:auto;
+    font-family: monospace;
+    font-size: 13px;
+    text-align: left;
+    margin: 0 0 0;
+    color: rgb(2 255 43 / 85%);
+}
+
+.pre_portfolio_lined{
+    background-color: rgba(255,255,255,0.05);
+    border: 1px dashed rgba(255,255,255,0.5);
+    padding: 8px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    overflow:auto;
+    font-family: monospace;
+    font-size: 13px;
+    color: rgb(2 255 43 / 85%);
+    white-space: pre-wrap;
+}
