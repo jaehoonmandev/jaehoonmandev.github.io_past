@@ -81,7 +81,7 @@ public class Main {
 ```java
 //익명 클래스
 new Hello(){
-		@Override
+    @Override
     void sayHello(){
         System.out.println("안녕하세요");
     }

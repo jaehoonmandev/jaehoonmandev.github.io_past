@@ -16,9 +16,14 @@ source_code:
 blog:
     server: "tistory.com"
     nick: "jaehoonman"
-#fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
 future: true #post 작성 시 미래의 날짜도 개시할 것인지.
+
+# 헤더 두 번 나타나는거 수정.
+titles_from_headings:
+    enabled:     true
+    strip_title: false
+    collections: false

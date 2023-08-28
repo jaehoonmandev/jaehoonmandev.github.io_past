@@ -1,0 +1,70 @@
+#skillset
+#---------------------------------------
+
+#Back_End
+- name: Java
+  type: Back_End
+  level : High
+
+- name: Spring Framework
+  type: Back_End
+  level : High
+
+- name : Spring Boot
+  type: Back_End
+  level : Middle
+
+
+# Front_End
+- name : Javascript
+  type: Front_End
+  level : High
+
+- name: HTML5 / CSS3
+  type: Front_End
+  level : High
+
+
+#server
+- name: Linux
+  type: Server
+  level: High
+
+- name: AWS
+  type: Server
+  level: Low
+
+
+#database
+- name : PostgreSQL
+  type: DB
+  level : High
+
+- name : JPA
+  type: DB
+  level : Middle
+
+- name : MySQL
+  type: DB
+  level : Middle
+
+- name : MS-SQL
+  type: DB
+  level : Middle
+
+
+#Tool
+- name: IntelliJ
+  type: Tool
+  level: High
+
+- name : Eclipse
+  type: Tool
+  level : High
+
+- name : Git
+  type: Tool
+  level : Middle
+
+
+

@@ -1,0 +1,10 @@
+#skillset
+#---------------------------------------
+#자격증
+- name: 정보처리(필기+실기)
+  type: Software
+  level : 기사
+
+- name : JLPT
+  type: Language
+  level : N2
