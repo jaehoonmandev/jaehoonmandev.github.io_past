@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d933cebb-4522-4cd0-9085-68aee13a80cd" name="Changes" comment="1. 잔디테스트">
+    <list default="true" id="d933cebb-4522-4cd0-9085-68aee13a80cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/accordion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/typing.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/typing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023/Algorithm/2023-07-18-Simpel_Prime_Number_Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/Algorithm/2023-07-18-Simpel_Prime_Number_Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023/Design-patterns/2023-08-23-Singleton-pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/Design-patterns/2023-08-23-Singleton-pattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portpolio/osaka_prj.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/portpolio/osaka_prj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Design_Patterns/Singleton_classDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/added_repository.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/create_repository.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/default_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/edit_README.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/jaehoonman_github_README.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/shield_io_static_badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/simpleicons_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/static_logos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/Github/profile/tistory_badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/2023/github_pages/Jekyll/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693225509996</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="1. 복구...3">
+      <created>1693235199781</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1693235199781</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +406,8 @@
     <MESSAGE value="1. 포트폴리오 수정.&#10;2. README.MD 파일 수정." />
     <MESSAGE value="1. singleton pattern링크 추가" />
     <MESSAGE value="1. 잔디테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. 잔디테스트" />
+    <MESSAGE value="1. 복구...3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 복구...3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

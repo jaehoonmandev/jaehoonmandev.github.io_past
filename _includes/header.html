@@ -5,10 +5,10 @@
     <span class="reserved">char</span> nick[<span class="number">9</span>] = <span class="string">"{{ site.nick }}"</span>;
     </p>
     <p>
-    printf(<a href="https://{{ site.source_code.server }}/{{ site.source_code.nick }}" target="_blank"><span class="string">"https://{{ site.source_code.server }}/<span class="reserved">%s\n</span>"</span></a>,nick);
+    printf(<a href="https://{{ site.source_code.server }}/{{ site.source_code.nick }}" target="_blank"><span class="string">"https://{{ site.source_code.server }}/<span class="reserved">%s\n</span>"</span></a>,nick); // GitHub Resporisoty
     </p>
     <p>
-      printf(<a href="https://{{ site.blog.server }}/{{ site.blog.nick }}" target="_blank"><span class="string">"https://{{ site.blog.server }}/<span class="reserved">%s\n</span>"</span></a>,nick); // Tistory Blog
+      printf(<a href="https://{{ site.blog.nick }}.{{ site.blog.server }}" target="_blank"><span class="string">"https://{{ site.blog.server }}/<span class="reserved">%s\n</span>"</span></a>,nick); // Tistory Blog
     </p>
     <!--<p>
       printf(<a href="https://{{ site.blog.nick }}.{{ site.blog.server }}" target="_blank"><span class="string">"https://<span class="reserved">%s</span>.{{ site.blog.server }}<span class="reserved">\n</span>"</span></a>,nick);

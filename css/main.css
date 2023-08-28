@@ -18,7 +18,7 @@ h1 {
 }
 h2 { color: rgba(220,220,0,0.7); }
 h3 { color: rgba(220,220,0,0.6); }
-h4 { color: rgba(220,220,0,0.5); }
+h4 { color: rgba(220, 220, 0, 0.56); }
 h5 { color: rgba(220,220,0,0.4); }
 h6 { color: rgba(220,220,0,0.3); }
 footer {
@@ -81,9 +81,10 @@ pre {
     -moz-border-radius: 3px;
     border-radius: 3px;
     overflow:auto;
-		font-family: monospace;
-		font-size: 12px;
-		color: rgba(255,255,255,0.4);
+    font-family: monospace;
+    font-size: 12px;
+    color: rgb(2 255 43 / 85%);
+    white-space: pre-wrap;
 }
 img {
     width: 80%;
@@ -93,6 +94,7 @@ img {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
+    background-color: white;
 }
 iframe {
     width: 750px;
@@ -224,14 +226,9 @@ margin: unset;
 
 /*커스터마이징*/
 .pre_portfolio{
-    background-color: rgba(255,255,255,0.05);
-    border: 1px dashed rgba(255,255,255,0.5);
-    padding: 8px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    overflow:auto;
-    font-family: monospace;
+    background-color:transparent;
+    border: 0px;
+    padding-left: 10%;
     font-size: 13px;
     text-align: left;
     margin: 0 0 0;
@@ -239,15 +236,50 @@ margin: unset;
 }
 
 .pre_portfolio_lined{
-    background-color: rgba(255,255,255,0.05);
+    background-color:transparent;
     border: 1px dashed rgba(255,255,255,0.5);
     padding: 8px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     overflow:auto;
-    font-family: monospace;
     font-size: 13px;
     color: rgb(2 255 43 / 85%);
-    white-space: pre-wrap;
+}
+
+.img_portfolio{
+    width: 90%;
+    margin-left: 0px;
+    border-radius: 50%;
+    border: none;
+    padding: 0px;
+}
+
+.accordion {
+    color: rgb(2 255 43 / 85%);
+    background-color: transparent;
+    cursor: pointer;
+    text-align: left;
+    border: 1px dashed rgba(255,255,255,0.5);
+    border-radius: 3px;
+}
+
+.active, .accordion:hover {
+    background-color: rgb(59 2 255 / 34%);
+}
+
+.accordion:after {
+    font-weight: bold;
+    float: right;
+}
+
+.accordionPanel{
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.cmdStyle{
+    color: rgb(2 255 43 / 85%);
+    font-size: 15px;
 }

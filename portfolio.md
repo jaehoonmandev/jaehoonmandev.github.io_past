@@ -7,7 +7,7 @@ title: "🤔 Who are you?"
   <tbody>
     <tr>
       <td style="width: 40%">
-        <img id="img_portfolio" src="{{ site.baseurl }}/images/Real_jaehoonman.JPG" >
+        <img class="img_portfolio" src="{{ site.baseurl }}/images/Real_jaehoonman.JPG" >
       </td>
       <td style="width: 60%">      
         <pre id="typing_eff" class="pre_portfolio">
@@ -34,8 +34,7 @@ title: "🤔 Who are you?"
         Lon: "127.0094",
         district: "Gangbuk-Gu, Seoul, South Korea"
     }
-}
-        </pre>
+}</pre>
       </td>
     </tr>
   </tbody>

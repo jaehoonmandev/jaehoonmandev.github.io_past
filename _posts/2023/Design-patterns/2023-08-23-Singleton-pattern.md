@@ -6,7 +6,7 @@ categories:
 - blog
 tags:
 - Design patterns
----
+--- 
 # Singleton pattern
 
 클래스의 인스턴스를 단일 인스턴스로 제한하여  전체적인 시스템에서 공통적으로 수행해야하는 동작을 위한 객체를 생성하는데 사용된다.

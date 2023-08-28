@@ -1,7 +1,7 @@
 if(document.getElementById('typing_eff') != null){
     var i = 0;
     var i2 = 0;
-    var speed = 5;
+    var speed = 2;
 
     var txt = document.getElementById('typing_eff').innerHTML;
     document.getElementById('typing_eff').innerHTML = ''
