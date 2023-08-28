@@ -70,6 +70,10 @@ GoF에 의해 대표적으로 소개된 패턴은 크게 3가지 패턴으로 �
 
   전체적인 시스템에서 공통적으로 수행해야하는 동작을 위한 객체를 생성할 수 있는 패턴.
 
+- [Singletom pattern 블로그 포스트](https://wido1593.github.io/blog/Singleton-pattern/)  
+- [Singletom pattern 소스](https://github.com/wido1593/DesignPatterns/tree/master/creationPatterns/Singleton)
+
+
 ## Structural patters - 구조 패턴
 
 ---
@@ -83,7 +87,7 @@ GoF에 의해 대표적으로 소개된 패턴은 크게 3가지 패턴으로 �
 
 ##### Composite pattern
 
-  복합 객체 그룹을 단일 인스턴스 처럼 사용할 수 있게 부분#####전체 계층을 트리 구조로 통합 시켜주는 패턴.
+  복합 객체 그룹을 단일 인스턴스 처럼 사용할 수 있게 부분-전체 계층을 트리 구조로 통합 시켜주는 패턴.
 
 ##### Aggregate pattern
 
@@ -192,7 +196,7 @@ GoF에 의해 대표적으로 소개된 패턴은 크게 3가지 패턴으로 �
 
 ##### Template method pattern
 
-  상속을 이용하여 원하는 알고리즘을 선택할 수 잇는 패턴.
+  상속을 이용하여 원하는 알고리즘을 선택할 수 있는 패턴.
 
 ---
 
