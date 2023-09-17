@@ -97,7 +97,7 @@ HTTPS는 SSL/TLS의 기술로 구현한 보안 프로토콜위에서 실직적�
 즉, HTTPS는 SSL/TLS의 기술을 접합시킨 HTTP이다.
 
 
-
+<br> <br>
 
 ref.
 https://www.goanywhere.com/blog/what-is-ssl-tls-and-https
