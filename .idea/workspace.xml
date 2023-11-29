@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d933cebb-4522-4cd0-9085-68aee13a80cd" name="Changes" comment="1. 기초적인 소프트웨어 개발 분석부터 운영까지(Part.1) 포스트 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023/SW_DEV_INT/2023-11-28-Software_From_Analyze_To_Operation_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/SW_DEV_INT/2023-11-28-Software_From_Analyze_To_Operation_1.md" afterDir="false" />
+    <list default="true" id="d933cebb-4522-4cd0-9085-68aee13a80cd" name="Changes" comment="1. 기초적인 소프트웨어 개발 분석부터 운영까지 포스트 수정">
+      <change beforePath="$PROJECT_DIR$/_posts/2023/SW_DEV_INT/2023-11-28-Software_From_Analyze_To_Operation_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023/SW_DEV_INT/2023-11-28-Software_From_Analyze_To_Operation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
       <workItem from="1694959337153" duration="983000" />
       <workItem from="1701167056026" duration="2000" />
       <workItem from="1701167069792" duration="2158000" />
-      <workItem from="1701244250037" duration="169000" />
+      <workItem from="1701244250037" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="1. 메인 화면 리뉴얼&#10; &gt; 타이핑 효과 추가.&#10; &#10;2. 포트폴리오 페이지 추가 ( 수정중 ) &#10; &gt; 아코디언 효과 추가.">
       <created>1686050773019</created>
@@ -328,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701168601020</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="1. 기초적인 소프트웨어 개발 분석부터 운영까지 포스트 수정">
+      <option name="closed" value="true" />
+      <created>1701244440569</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701244440569</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1. 포스트 날짜 수정." />
     <MESSAGE value="1. 불필요한 이미지 제거.&#10;2. 일본인턴쉽 포트폴리오 수정." />
     <MESSAGE value="1. 헤더 두 번 나타나는거 방지." />
     <MESSAGE value="1. index mark down 페이지 충돌 수정.&#10;2. 소수 구하는 간단한 알고리즘 포스트 추가." />
@@ -429,7 +435,8 @@
     <MESSAGE value="1. SSL/TLS &amp; HTTPS 포스트 수정" />
     <MESSAGE value="1. 기초적인 소프트웨어 개발 분석부터 운영까지(Part.1) 포스트 등록" />
     <MESSAGE value="1. 기초적인 소프트웨어 개발 분석부터 운영까지(Part.1) 포스트 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. 기초적인 소프트웨어 개발 분석부터 운영까지(Part.1) 포스트 수정" />
+    <MESSAGE value="1. 기초적인 소프트웨어 개발 분석부터 운영까지 포스트 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 기초적인 소프트웨어 개발 분석부터 운영까지 포스트 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
